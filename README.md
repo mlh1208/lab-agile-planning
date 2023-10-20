@@ -1,1 +1,1 @@
-# lag-agile-planning
+# lab-agile-planning
